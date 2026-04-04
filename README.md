@@ -11,7 +11,9 @@ This project demonstrates an end‑to‑end data pipeline using Azure Data Facto
 
 ADF Pipelines: ingestion data through http connection 
 
+
 <img width="600" height="200" alt="Screenshot 2026-04-04 140435" src="https://github.com/user-attachments/assets/d87efc5b-a5fa-4905-b614-a65107bc38ea" />
+
 
 
 Databricks ETL: PySpark transformations and feature engineering.
@@ -34,6 +36,12 @@ The dashboard highlights the following KPIs to measure insurance portfolio perfo
 3-Claim Frequency – Number of claims filed relative to total policies
 
 4-Policy Count – Total number of active policies in the dataset
+
+<img width="600" height="300" alt="Screenshot 2026-04-04 162617" src="https://github.com/user-attachments/assets/24b49d26-4012-4c90-a682-23d56c1e30d8" />
+
+
+<img width="600" height="300" alt="Screenshot 2026-04-04 162639" src="https://github.com/user-attachments/assets/9d5c2e7f-6fcf-4e1e-bb86-ac64319cdb9f" />
+
 
 ----
 
