@@ -1,0 +1,78 @@
+{
+	"name": "bronze",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "InsuranceData.csv",
+				"folderPath": "Insurance",
+				"fileSystem": "bronze"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "PolicyNumber",
+				"type": "String"
+			},
+			{
+				"name": "CustomerID",
+				"type": "String"
+			},
+			{
+				"name": "Gender",
+				"type": "String"
+			},
+			{
+				"name": "Age",
+				"type": "String"
+			},
+			{
+				"name": "PolicyType",
+				"type": "String"
+			},
+			{
+				"name": "PolicyStartDate",
+				"type": "String"
+			},
+			{
+				"name": "PolicyEndDate",
+				"type": "String"
+			},
+			{
+				"name": "PremiumAmount",
+				"type": "String"
+			},
+			{
+				"name": "CoverageAmount",
+				"type": "String"
+			},
+			{
+				"name": "ClaimNumber",
+				"type": "String"
+			},
+			{
+				"name": "ClaimDate",
+				"type": "String"
+			},
+			{
+				"name": "ClaimAmount",
+				"type": "String"
+			},
+			{
+				"name": "ClaimStatus",
+				"type": "String"
+			}
+		]
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
