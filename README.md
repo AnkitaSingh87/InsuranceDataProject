@@ -1,4 +1,4 @@
-# 📊 Insurance Data Dashboard
+# 📊 Insurance Data Analysis
 
 ---
 
