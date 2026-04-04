@@ -49,11 +49,9 @@ The dashboard highlights the following KPIs to measure insurance portfolio perfo
 
 Ensures data quality by handling nulls and standardizing categories.
 
-Provides risk insights by combining claim status with claim amount.
+Making with KPIs on premiums, claims, and approval rates.
 
-Enables decision‑making with KPIs on premiums, claims, and approval rates.
-
-5-Insurance Type Distribution – Percentage breakdown of different policy categories
+Percentage breakdown of different policy categories
 
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/1687bad1-0e63-4986-a114-b8beb513c377" />
