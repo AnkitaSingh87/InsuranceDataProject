@@ -56,7 +56,11 @@ Enables decision‑making with KPIs on premiums, claims, and approval rates.
 5-Insurance Type Distribution – Percentage breakdown of different policy categories
 
 
-<img width="700" height="400" alt="Screenshot 2026-04-04 161435" src="https://github.com/user-attachments/assets/d0655d76-0f87-4644-a881-84e5160ca99e" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/1687bad1-0e63-4986-a114-b8beb513c377" />
+
+
+
+<img width="600" height="400" alt="Screenshot 2026-04-04 161435" src="https://github.com/user-attachments/assets/d0655d76-0f87-4644-a881-84e5160ca99e" />
 
 
 
