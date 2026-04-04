@@ -22,8 +22,19 @@ Medallion Architecture: Bronze → Silver → Gold layers for scalable analytics
 
 Power BI Dashboard: Interactive visuals for claims, premiums, and risk analysis.
 
----
+-----
 
+**🧩Technologies Used**
+
+Azure data factory 
+
+Databricks (Notebooks, Delta Lake, SQL)
+
+PySpark for transformations
+
+Power BI for visualization
+
+-----
 
 **📊 Key Performance Indicators (KPIs)**
 
