@@ -4,25 +4,21 @@
 
 **📌Overview**
 
-This repository contains an interactive dashboard built to analyze insurance data. The dashboard provides insights into overall portfolio trends and policy type distributions.
+This project demonstrates an end‑to‑end data pipeline using Azure Data Factory (ADF) for orchestration, Azure Databricks for transformation,Power BI for visualization and deliver business insights through dashboards.
 
 ---
+**📌Key Features**
 
-**🚀 Features**
+ADF Pipelines: ingestion data through http connection 
 
-1-Overview Page
+<img width="600" height="200" alt="Screenshot 2026-04-04 140435" src="https://github.com/user-attachments/assets/d87efc5b-a5fa-4905-b614-a65107bc38ea" />
 
-2-High-level summary of insurance dataset
 
-3-Key statistics and KPIs for quick insights
+Databricks ETL: PySpark transformations and feature engineering.
 
-4-Detailed performance metrics
+Medallion Architecture: Bronze → Silver → Gold layers for scalable analytics.
 
-5-Insurance Type Analysis
-
-6-Distribution and proportion visualizations
-
-7-Helps identify dominant policy categories
+Power BI Dashboard: Interactive visuals for claims, premiums, and risk analysis.
 
 ---
 
@@ -39,9 +35,22 @@ The dashboard highlights the following KPIs to measure insurance portfolio perfo
 
 4-Policy Count – Total number of active policies in the dataset
 
+----
+
+**📊 Business Value**
+
+Ensures data quality by handling nulls and standardizing categories.
+
+Provides risk insights by combining claim status with claim amount.
+
+Enables decision‑making with KPIs on premiums, claims, and approval rates.
+
 5-Insurance Type Distribution – Percentage breakdown of different policy categories
 
-6-Analyze the policy through filter
+
+<img width="700" height="400" alt="Screenshot 2026-04-04 161435" src="https://github.com/user-attachments/assets/d0655d76-0f87-4644-a881-84e5160ca99e" />
+
+
 
 
 
