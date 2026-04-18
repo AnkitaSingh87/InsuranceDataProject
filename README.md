@@ -4,7 +4,7 @@
 
 **📌Overview**
 
-This project demonstrates an end‑to‑end data pipeline using Azure Data Factory (ADF) for orchestration, Azure Databricks for transformation,Power BI for visualization and deliver business insights through dashboards.
+This project showcases an end-to-end data engineering pipeline for insurance data using Azure Data Factory (ADF) for ingestion, Databricks and Power BI for visualization. The objective is to build a scalable and reliable pipeline that ingests raw insurance data, processes it into curated layers, and enables actionable business insights for claims performance and policy analysis.
 
 ---
 **📌Key Features**
